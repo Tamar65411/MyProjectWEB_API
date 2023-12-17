@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project is a website for a restaurant.
 In order to run this  project,  .NET 7 is needed, as well as V.S. at least 2022 version. 
 To create a DB you need to use CODE FIRST and make sure you have SQL installed.
@@ -13,15 +12,9 @@ In order to monitor the operations on the database we used the PROFILER professi
 Our project is documented and organized by the SWAGGWR.
 We used DTO entities because we have to return to the client not the same things 
 We used AutoMapper library- to exchange objects to DTO object and the opposite.
-We created CONFIGURATION file for separated code parameters, like connection string 
+We created CONFIGURATION file for separated code parameters, like connection string
 Our project send information data to file, in case of error it send email to the manager by using the LOGGER opensource library.
  To catch errors from all the layer we wrote middleware.  
 We wrote another middleware to keep important data about the entries user.   
 Enjoy using our project.
 
-
-
-=======
-This project is an aplication for restaurant.
-this project were writen by .NET7
->>>>>>> be2674b4b72252de2203c376b7c1856459f979c2
